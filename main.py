@@ -1,5 +1,5 @@
 import streamlit as str
-from langdetect import detect
+import detect
 from textblob import TextBlob
 
 
