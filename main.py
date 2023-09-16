@@ -1,5 +1,5 @@
 from streamlit as st
-from langdetect import detect
+import detect
 from textblob import TextBlob
 # Get the user input.
 lang_names = st.{"en":"English",
